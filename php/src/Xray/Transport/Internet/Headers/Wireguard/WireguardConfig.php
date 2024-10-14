@@ -4,10 +4,7 @@
 
 namespace Xray\Transport\Internet\Headers\Wireguard;
 
-use Google\Protobuf\Internal\GPBType;
 use Google\Protobuf\Internal\Message;
-use Google\Protobuf\Internal\RepeatedField;
-use Google\Protobuf\Internal\GPBUtil;
 use GPBMetadata\Transport\Internet\Headers\Wireguard\Config;
 
 /**
